@@ -27,6 +27,5 @@
       "usernameField": "email",
       "passwordField": "password"
     }
-  },
-  "mongodb": "mongodb://35.240.200.63:27017/feathers_proposal"
+  }
 }
